@@ -30,6 +30,7 @@ public class LoginActivity extends AppCompatActivity {
                     .setMessage("登入失敗")
                     .setPositiveButton("OK",null)
                     .show();
+            
         }
 
     }
